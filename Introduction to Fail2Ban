@@ -1,0 +1,8 @@
+Welcome to my Fail2Ban project repository! In this project, I’ve implemented Fail2Ban, 
+a powerful intrusion prevention software for Linux servers, to enhance security and mitigate
+potential threats. Fail2Ban works by monitoring log files for suspicious activity, such as 
+failed login attempts, and automatically updating firewall rules to block offending IP addresses.
+This repository contains all the necessary configurations, setup instructions, and scripts to 
+deploy Fail2Ban effectively on a Linux server. Whether you’re a system administrator, a security 
+enthusiast, or just curious about network security, this project provides a comprehensive example 
+of how to secure your server against brute force attacks and other common threats.
