@@ -46,10 +46,10 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 <img src="https://imgur.com/jdkaYom.png" height="80%" width="80%" >
 <br />
 <p align="center"></p>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" >
+<img src="https://imgur.com/PpQo71U.png" height="80%" width="80%" >
 <br />
 <p align="center"></p>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" >
+<img src="https://imgur.com/qAAOrNr.png" height="80%" width="80%" >
 <br />
    
 <p align="center">
