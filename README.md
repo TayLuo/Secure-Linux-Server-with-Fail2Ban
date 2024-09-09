@@ -79,13 +79,13 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 <p align="center">
 <img src="https://imgur.com/03fOZJe.png" height="80%" width="80%" >
 <br />
-
-
-<p align="center">
-Create Recource Group: <br/>
-<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+18. Once you're satified with the settings, restart the fail2ban service
 <br />
+19. What banning looks like
+<p align="center"> </p>
+<img src="https://imgur.com/NBzTzKe.png" height="80%" width="80%" >
 <br />
+
 
 <p align="center">
 Create Recource Group: <br/>
