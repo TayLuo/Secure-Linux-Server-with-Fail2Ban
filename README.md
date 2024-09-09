@@ -16,7 +16,8 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 <br />
 <br />
 <p align="center">
-On the right side, click on "Native SSH", then click "select"<br/>
+3.On the right side, click on "Native SSH", then click "select"
+<br/>
 <img src="https://imgur.com/VDnBU86.png" height="80%" width="80%" >
 <br />
 <br />
