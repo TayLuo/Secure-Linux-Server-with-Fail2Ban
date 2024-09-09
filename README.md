@@ -85,22 +85,11 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 <p align="center"> </p>
 <img src="https://imgur.com/NBzTzKe.png" height="80%" width="80%" >
 <br />
-
-
-<p align="center">
-Create Recource Group: <br/>
-<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+20. If an legit IP got banned from accessing your Server, here is how to unban an IP
+<p align="center"></p>
+<img src="https://imgur.com/z7SuQr2.png" height="80%" width="80%" >
 <br />
 <br />
 
-<p align="center">
-Create Recource Group: <br/>
-<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
-<br />
-<br />
-
-<p align="center">
-Create Recource Group: <br/>
-<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
-<br />
-<br />
+Feel free to explore the repository and follow the included instructions to replicate the setup on your own Linux server. 
+Your feedback and contributions are always welcome!
