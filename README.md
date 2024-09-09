@@ -11,37 +11,31 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
    [here](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu)
 2. After successfully created and deployed the VM, there will be a public IP address given to you.
    <p align="center"> </p> 
-   <br/>
 <img src="https://imgur.com/WUOvJwq.png" height="80%" width="80%" >
 <br />
 <br />
 3.On the right side, click on "Native SSH", then click "select"
 <p align="center"> </p>
-<br/>
 <img src="https://imgur.com/VDnBU86.png" height="80%" width="80%" >
 <br />
 <br />
 4. Copy the Command
 <p align="center"></p>
-<br/>
 <img src="https://imgur.com/sQOFGPC.png" height="80%" width="80%" >
 <br />
 <br />
 5. Open the Windows PowerShell and Run as Administrator, then paste the commmand in the terminal
 <p align="center"> </p>
-<br/>
 <img src="https://imgur.com/H6q2cQo.png" height="80%" width="80%" >
 <br />
 <br />
 6. Replace the red arrow text with the path of ssh key file downloaded 
 <p align="center"> </p>
-<br/>
 <img src="https://imgur.com/TL5Ttwu.png" height="80%" width="80%" >
 <br />
 <br />
 7. When login, want to check the distribution of Linux, run the following Command
 <p align="center"> </p>
-<br/>
 <img src="https://imgur.com/TEvagQb.png" height="80%" width="80%" >
 <br />
 <br />
@@ -50,10 +44,9 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 <img src="https://imgur.com/iclgZgL.png" height="80%" width="80%" >
 <br />
 <br />
-   
-<p align="center">
-Create Recource Group: <br/>
-<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+9. Now it comes to the fun part, install Fail2Ban on the machine   
+<p align="center"></p>
+<img src="https://imgur.com/Bi1sn6R.png" height="80%" width="80%" >
 <br />
 <br />
    
