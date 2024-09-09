@@ -12,7 +12,7 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 2. After successfully created and deployed the VM, there will be a public IP address given to you.
    <p align="center"> </p> 
    <br/>
-<img src="https://imgur.com/a/KhtSeJK.png" height="80%" width="80%" >
+<img src="https://imgur.com/WUOvJwq.png" height="80%" width="80%" >
 <br />
 <br />
 <p align="center">
