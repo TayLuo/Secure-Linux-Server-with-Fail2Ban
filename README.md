@@ -51,7 +51,62 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 <p align="center"></p>
 <img src="https://imgur.com/qAAOrNr.png" height="80%" width="80%" >
 <br />
-   
+11. It is always to copy the file you are going to configure first, just in case.   
+<p align="center"></p>
+<img src="https://imgur.com/tfKpk8v.png" height="80%" width="80%" >
+<br />
+12. make sure the file is copied
+<p align="center"></p>
+<img src="https://imgur.com/YcCkBCW.png" height="80%" width="80%" >
+<br />
+
+<p align="center">
+Create Recource Group: <br/>
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+<br />
+<br />
+<p align="center">
+Create Recource Group: <br/>
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+<br />
+<br />
+
+<p align="center">
+Create Recource Group: <br/>
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+<br />
+<br />
+
+<p align="center">
+Create Recource Group: <br/>
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+<br />
+<br />
+
+<p align="center">
+Create Recource Group: <br/>
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+<br />
+<br />
+
+<p align="center">
+Create Recource Group: <br/>
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+<br />
+<br />
+
+<p align="center">
+Create Recource Group: <br/>
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+<br />
+<br />
+
+<p align="center">
+Create Recource Group: <br/>
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+<br />
+<br />
+
 <p align="center">
 Create Recource Group: <br/>
 <img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
