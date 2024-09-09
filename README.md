@@ -42,13 +42,13 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 <img src="https://imgur.com/Bi1sn6R.png" height="80%" width="80%" >
 <br />
 10. Let's start the service and check the status of the service  
-<p align="center">
+<p align="center"> </p>
 <img src="https://imgur.com/jdkaYom.png" height="80%" width="80%" >
 <br />
-<p align="center">
+<p align="center"></p>
 <img src="https://imgur.com/undefined.png" height="80%" width="80%" >
 <br />
-<p align="center">
+<p align="center"></p>
 <img src="https://imgur.com/undefined.png" height="80%" width="80%" >
 <br />
    
