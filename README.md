@@ -10,13 +10,14 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 1. The first step is to set up a Linux VM in azure, I will not show you step by step how to set up a VM, if you need help, please check out
    [here](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu)
 2. After successfully created and deployed the VM, there will be a public IP address given to you.
-   <p align="center"> </p> <br/>
+   <p align="center"> </p> 
+   <br/>
 <img src="https://imgur.com/a/KhtSeJK.png" height="80%" width="80%" >
 <br />
 <br />
 <p align="center">
 Create Recource Group: <br/>
-<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+<img src="https://imgur.com/a/KhtSeJK.png" height="80%" width="80%" >
 <br />
 <br />
 <p align="center">
