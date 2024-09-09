@@ -55,19 +55,17 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 <p align="center"></p>
 <img src="https://imgur.com/tfKpk8v.png" height="80%" width="80%" >
 <br />
-12. make sure the file is copied
+12. Check if the file is copied
 <p align="center"></p>
 <img src="https://imgur.com/YcCkBCW.png" height="80%" width="80%" >
 <br />
-
-<p align="center">
-Create Recource Group: <br/>
-<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+13. Let's do some fun things by configure the file using "vi" editor
+<p align="center"></p>
+<img src="https://imgur.com/3SkUQym.png" height="80%" width="80%" >
 <br />
-<br />
-<p align="center">
-Create Recource Group: <br/>
-<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+14. When get into the configuration file, uncomment the line with "ignore IP" and add "127.0.0.1" and "Your public IP"
+<p align="center"></p>
+<img src="https://imgur.com/7wSDVRO.png" height="80%" width="80%" >
 <br />
 <br />
 
