@@ -71,12 +71,11 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 <p align="center"> </p>
 <img src="https://imgur.com/ErfAsPt.png" height="80%" width="80%" >
 <br />
+16. There is one option, the email coulb be sent if there is an IP trying to access the Server
+<p align="center"></p>
+<img src="https://imgur.com/dc16UKl.png" height="80%" width="80%" >
+<br />
 
-<p align="center">
-Create Recource Group: <br/>
-<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
-<br />
-<br />
 
 <p align="center">
 Create Recource Group: <br/>
