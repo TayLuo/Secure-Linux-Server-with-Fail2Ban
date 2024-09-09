@@ -76,7 +76,7 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 <img src="https://imgur.com/dc16UKl.png" height="80%" width="80%" >
 <br />
 17. Under SSHD section, add the following line 
-<p align="center">
+<p align="center"></p>
 <img src="https://imgur.com/03fOZJe.png" height="80%" width="80%" >
 <br />
 18. Once you're satified with the settings, restart the fail2ban service
