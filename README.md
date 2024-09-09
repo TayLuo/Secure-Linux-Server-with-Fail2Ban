@@ -11,7 +11,7 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
    [here](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu)
 2. After successfully created and deployed the VM, there will be a public IP address given to you.
    <p align="center">
-<img src="https://imgur.com/731vDl5.pngheight="80%" width="80%" >
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
 <br />
 <br />
 <p align="center">
