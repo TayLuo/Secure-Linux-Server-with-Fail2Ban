@@ -6,4 +6,4 @@ This Repository is about securing Linux Server with Fail2Ban, it will not 100% b
 
 The Following are the step by step guide on how to install and configure Fail2Ban:
 
-  
+In this project I used Azure(https://azure.microsoft.com/en-us/get-started/azure-portal) for my project, you can choose whichever you prefer. 
