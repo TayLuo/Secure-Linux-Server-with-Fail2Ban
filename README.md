@@ -64,10 +64,11 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 <img src="https://imgur.com/3SkUQym.png" height="80%" width="80%" >
 <br />
 14. When get into the configuration file, uncomment the line with "ignore IP" and add "127.0.0.1" and "Your public IP"
+    Don't know what's your IP, by click it [here](https://whatismyipaddress.com/)
 <p align="center"></p>
 <img src="https://imgur.com/7wSDVRO.png" height="80%" width="80%" >
 <br />
-<br />
+
 
 <p align="center">
 Create Recource Group: <br/>
