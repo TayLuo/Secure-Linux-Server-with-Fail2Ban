@@ -21,16 +21,16 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 <img src="https://imgur.com/VDnBU86.png" height="80%" width="80%" >
 <br />
 <br />
-4.Copy the Command
+4. Copy the Command
 <p align="center"></p>
 <br/>
 <img src="https://imgur.com/sQOFGPC.png" height="80%" width="80%" >
 <br />
 <br />
-4.Copy the command
-<p align="center">
+5. Open the Windows PowerShell and Run as Administrator, then paste the commmand in the terminal
+<p align="center"> </p>
 <br/>
-<img src="https://imgur.com/sQOFGPC.png" height="80%" width="80%" >
+<img src="https://imgur.com/H6q2cQo.png" height="80%" width="80%" >
 <br />
 <br />
    
