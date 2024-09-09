@@ -9,4 +9,4 @@ The Following are the step by step guide on how to install and configure Fail2Ba
 In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azure-portal) for my project, you can choose whichever you prefer. 
 1. The first step is to set up a Linux VM in azure, I will not show you step by step how to set up a VM, if you need help, please check out
    [here](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu)
-
+2. After successfully created and deployed the VM, there will be a public IP address given to you. 
