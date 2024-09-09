@@ -21,6 +21,37 @@ In this project I used [Azure](https://azure.microsoft.com/en-us/get-started/azu
 <img src="https://imgur.com/VDnBU86.png" height="80%" width="80%" >
 <br />
 <br />
+4.Copy the command 
+<p align="center">
+ <br/>
+<img src="https://imgur.com/sQOFGPC.png" height="80%" width="80%" >
+<br />
+<br />
+<p align="center">
+Create Recource Group: <br/>
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+<br />
+<br />
+<p align="center">
+Create Recource Group: <br/>
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+<br />
+<br />
+<p align="center">
+Create Recource Group: <br/>
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+<br />
+<br />
+<p align="center">
+Create Recource Group: <br/>
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+<br />
+<br />
+<p align="center">
+Create Recource Group: <br/>
+<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
+<br />
+<br />
 <p align="center">
 Create Recource Group: <br/>
 <img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
